@@ -43,4 +43,4 @@ Full documentation is available in:
 
 ## 👨‍💻 Author
 
-Bharath Kumar Alla
+Tarun Bonu
